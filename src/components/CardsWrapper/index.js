@@ -8,7 +8,7 @@ class CardsWrapper extends Component {
   render() {
     return (
       <Row>
-        {map(this.props.parts, (item, id) => {
+        {map(this.props.items, (item, id) => {
           return (
             <Col xs={4} key={id}>
               <Card item={item} id={id} />
