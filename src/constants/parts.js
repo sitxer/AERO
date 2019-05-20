@@ -1,0 +1,45 @@
+export const ITEMS = [
+  {
+    article: "Арт. 34534345",
+    img: "../dist/img/card-img.png",
+    availability: true,
+    title: "Canon PowerShot SX400 IS с улучшенной матрицей и объективом",
+    size: "23.2 x 15.2 мм",
+    aperture: "CMOS",
+    format: "RAW, JPEG, MP4 и другие",
+    focal_length: "18-55 мм.",
+  },
+  {
+    article: "Арт. 34534345",
+    img: "../dist/img/card-img.png",
+    availability: true,
+    title: "Canon PowerShot SX400 IS с улучшенной матрицей и объективом",
+    size: "23.2 x 15.2 мм",
+    aperture: "CMOS",
+    format: "RAW, JPEG, MP4 и другие",
+    focal_length: "18-55 мм.",
+  },
+  {
+    article: "Арт. 34534345",
+    img: "../dist/img/card-img.png",
+    availability: true,
+    title: "Canon PowerShot SX400 IS с улучшенной матрицей и объективом",
+    size: "23.2 x 15.2 мм",
+    aperture: "CMOS",
+    format: "RAW, JPEG, MP4 и другие",
+    focal_length: "18-55 мм.",
+  },
+];
+
+export const BRANDS = [
+  { name: "Canon", select: false, id: 0 },
+  { name: "Olympus", select: false, id: 1 },
+  { name: "Fujifilm", select: false, id: 2 },
+  { name: "Pentax", select: false, id: 3 },
+  { name: "Nikon", select: false, id: 4 },
+  { name: "Sigma", select: false, id: 5 },
+  { name: "Panasonic", select: false, id: 6 },
+  { name: "Geleral Electrics", select: false, id: 7 },
+  { name: "Leica", select: false, id: 8 },
+  { name: "Zenit", select: false, id: 9 },
+];
